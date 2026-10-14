@@ -29,4 +29,4 @@ nav_order: 4
 {: .a_modifier }
 > Langage, bibliothèques, comment installer et lancer l'application.
 
-[📁 Code du software]({{ site.gh_edit_repository }}/tree/main/project/software){: .btn }
+[ Code du software]({{ site.gh_edit_repository }}/tree/main/project/software){: .btn }
